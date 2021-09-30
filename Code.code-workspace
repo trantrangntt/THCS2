@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\Teamweb"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Teamweb",
+		"files.associations": {
+			"*.tcc": "cpp",
+			"random": "cpp",
+			"cmath": "cpp"
+		}
+	}
+}
